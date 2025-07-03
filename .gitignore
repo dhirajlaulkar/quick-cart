@@ -209,3 +209,4 @@ models/
 # Backup files
 *.bak
 *.backupnode_modules/
+node_modules/
