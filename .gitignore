@@ -210,3 +210,4 @@ models/
 *.bak
 *.backupnode_modules/
 node_modules/
+.next/
